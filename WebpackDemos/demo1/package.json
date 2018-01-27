@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "webpack-dev-server --hot --devtool source-map"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.9",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}
